@@ -1,0 +1,7 @@
+#prottekbar akta project ar jonno akbar git initialize korte hube
+git init
+git add .
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Masuda-Akter-Tisha/PH-Level-1-M-03.git
+git push -u origin main
